@@ -1,0 +1,3 @@
+The problem asks for an integer input to create two arrays of that size. One array is labeled 'p' for profit and the other is labeled 'w' for weight. The knapsack problem tries to determine the greatest profit that can be put into a knapsack without going over weight. Each element in the 'p' array is the profit of an item and each element in the 'w' array is the weight of that item. 
+
+After the arrays are intialized they will be assigned random values until all elements are full. The arrays are then sorted from lowest to highest weight value. The user will then input the weight limit of the knapsack. The program then determines which items to include into the knapsack for best profit value. 
